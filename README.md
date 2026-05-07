@@ -72,6 +72,10 @@ Contributions are welcome! If you have suggestions for new extraction fields or 
 **Developed by [Tirtha Bepary](https://github.com/YOUR_USERNAME)**
 *Computer Science & Engineering Graduate*
 
+## Screenshort of this UI
+<img width="1917" height="949" alt="image" src="https://github.com/user-attachments/assets/8bac51b5-9145-4966-a34c-0fac1c6afbcf" />
+
+
 
 
 
